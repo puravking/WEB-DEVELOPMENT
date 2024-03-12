@@ -9,6 +9,7 @@ $("h1").addClass("big-title margin");
 $("h1").removeClass("big-title");
 $("h1")
 document.querySelectorAll("button")
+
 $( "button" )  
 $("button").text("Dont do");
 $("button").html("<em>Dont</em>")
